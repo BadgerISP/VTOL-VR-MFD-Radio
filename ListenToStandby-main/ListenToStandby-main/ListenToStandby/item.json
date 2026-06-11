@@ -1,0 +1,11 @@
+﻿{
+  "Title": "MFD Radio",
+  "Description": "An additional MFD radio page that shows the current radio frequencies and lets you change them on the fly. You can monitor the current frequencies, switch modes, and keep the standby channel in view from the MFD.",
+  "PreviewImageUrl": "https://vtolvr-mods.com/static/img/Logo.png",
+  "MetaData": {
+    "DllName": "MFDRadio.dll",
+    "AllowLoadOnStart": true,
+    "ShowOnMainList": true,
+    "DllHash": ""
+  }
+}
